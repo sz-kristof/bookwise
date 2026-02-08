@@ -1,4 +1,6 @@
 # BookWise - Appointment Scheduling System
+<img width="1900" height="889" alt="image" src="https://github.com/user-attachments/assets/e29fef65-af67-4487-af46-fe11309e2b1c" />
+
 
 A full-stack appointment booking platform built with React, Express, and SQLite. Designed for small businesses (salons, clinics, consultants) to manage their scheduling effortlessly.
 
